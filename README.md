@@ -1,13 +1,13 @@
 <!-- ================= HERO ================= -->
 
-<h1 align="center">👋 Hi, I’m <span style="color:#6366f1">Your Name</span></h1>
+<h1 align="center">👋 Hi, I’m <span style="color:#6366f1">Bakhti Mohamed</span></h1>
 
 <p align="center">
 Landing Page Designer & Frontend Developer focused on <strong>conversions</strong>, clarity, and performance.
 </p>
 
 <p align="center">
-  <a href="(https://www.upwork.com/freelancers/~0122b63162a4949f7e">
+  <a href="https://www.upwork.com/freelancers/~0122b63162a4949f7e">
     <img src="https://img.shields.io/badge/Hire%20Me-Upwork-6366f1?style=for-the-badge">
   </a>
   <a href="mailto:bakhti.system.dev@gmail.com">
