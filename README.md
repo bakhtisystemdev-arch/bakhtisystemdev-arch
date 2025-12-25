@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#6366f1">Your Name</span></h1>
 
 <p align="center">
-Landing Page Designer focused on <strong>conversions</strong>, clarity, and real business results.
+Landing Page Designer & Frontend Developer focused on <strong>conversions</strong>, clarity, and performance.
 </p>
 
 <p align="center">
@@ -24,19 +24,19 @@ Landing Page Designer focused on <strong>conversions</strong>, clarity, and real
 <td width="33%">
 
 ### 🚀 SaaS Landing Pages
-Designed to increase signups, trials, and product adoption.
+High-performance SaaS landing pages built with **React** and styled using **Tailwind CSS** to maximize signups and trials.
 
 </td>
 <td width="33%">
 
 ### 📞 Lead Generation Pages
-Optimized for calls, forms, and local business leads.
+Fast, mobile-first lead generation pages designed to convert visitors into calls and form submissions.
 
 </td>
 <td width="33%">
 
 ### 🎯 Personal Brand Pages
-Authority-driven pages for coaches and consultants.
+Authority-driven personal brand pages for coaches and consultants, optimized for trust and conversions.
 
 </td>
 </tr>
@@ -51,7 +51,7 @@ Authority-driven pages for coaches and consultants.
 <td width="33%">
 
 ### SaaS Landing Page
-High-conversion SaaS homepage.
+Modern SaaS landing page built with React & Tailwind CSS.
 
 🔗 [Live Demo](#)  
 📁 [GitHub Repo](#)
@@ -60,7 +60,7 @@ High-conversion SaaS homepage.
 <td width="33%">
 
 ### Local Business Lead Page
-Lead-focused landing page.
+Conversion-focused lead page with fast load time and clear CTA.
 
 🔗 [Live Demo](#)  
 📁 [GitHub Repo](#)
@@ -69,7 +69,7 @@ Lead-focused landing page.
 <td width="33%">
 
 ### Personal Brand Page
-Authority & funnel-based layout.
+Personal brand landing page with funnel-based layout.
 
 🔗 [Live Demo](#)  
 📁 [GitHub Repo](#)
@@ -80,20 +80,22 @@ Authority & funnel-based layout.
 
 ---
 
-## 🛠 Tools & Skills
-
-- UI / UX Design
-- Conversion-Focused Layouts
-- Responsive Design
-- Landing Page Strategy
+## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,html,css,github" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,github" />
 </p>
+
+**Core Technologies**
+- ⚛️ React (SPA & component-based UI)
+- 🎨 Tailwind CSS (utility-first styling)
+- 🌐 HTML5 & modern CSS
+- 🔧 Git & GitHub
+- 🚀 GitHub Pages / Vercel Deployment
 
 ---
 
-## 📈 Dashboard Stats
+## 📈 Developer Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=transparent" />
@@ -105,11 +107,20 @@ Authority & funnel-based layout.
 
 ---
 
+## 🎯 My Approach
+
+✔ Conversion-first design  
+✔ Clean, reusable React components  
+✔ Tailwind-powered rapid development  
+✔ Mobile-first & performance-focused  
+
+---
+
 ## 🤝 Work With Me
 
 - 💼 Freelance available
 - 🌍 Remote-friendly
-- 🎯 Focused on results, not just visuals
+- 🔥 Focused on results, not just visuals
 
 🔗 **Upwork:** https://www.upwork.com/freelancers/~yourprofile  
 📧 **Email:** yourname@email.com  
@@ -117,5 +128,5 @@ Authority & funnel-based layout.
 ---
 
 <p align="center">
-© 2025 Your Name • Landing Page Designer • Built with GitHub Pages
+© 2025 Your Name • React & Tailwind Landing Pages
 </p>
