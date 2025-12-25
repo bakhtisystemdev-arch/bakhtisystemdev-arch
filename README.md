@@ -7,10 +7,10 @@ Landing Page Designer & Frontend Developer focused on <strong>conversions</stron
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~yourprofile">
+  <a href="[https://www.upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~0122b63162a4949f7e)">
     <img src="https://img.shields.io/badge/Hire%20Me-Upwork-6366f1?style=for-the-badge">
   </a>
-  <a href="mailto:yourname@email.com">
+  <a href="mailto:bakhti.system.dev@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-gray?style=for-the-badge">
   </a>
 </p>
@@ -122,7 +122,7 @@ Personal brand landing page with funnel-based layout.
 - 🌍 Remote-friendly
 - 🔥 Focused on results, not just visuals
 
-🔗 **Upwork:** https://www.upwork.com/freelancers/~yourprofile  
+🔗 **Upwork:** [https://www.upwork.com/freelancers/~yourprofile ](https://www.upwork.com/freelancers/~0122b63162a4949f7e) 
 📧 **Email:** yourname@email.com  
 
 ---
