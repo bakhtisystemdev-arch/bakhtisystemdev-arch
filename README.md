@@ -123,7 +123,7 @@ Personal brand landing page with funnel-based layout.
 - 🔥 Focused on results, not just visuals
 
 🔗 **Upwork:** https://www.upwork.com/freelancers/~0122b63162a4949f7e
-📧 **Email:** yourname@email.com  
+📧 **Email:**bakhti.system.dev@gmail.com 
 
 ---
 
