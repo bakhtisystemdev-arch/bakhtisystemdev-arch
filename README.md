@@ -53,8 +53,8 @@ Authority-driven personal brand pages for coaches and consultants, optimized for
 ### SaaS Landing Page
 Modern SaaS landing page built with React & Tailwind CSS.
 
-🔗 [Live Demo](#)  
-📁 [GitHub Repo](#)
+🔗 [Live Demo](https://saas-landing-react-4wan.vercel.app/)  
+📁 [GitHub Repo](https://github.com/bakhtisystemdev-arch/saas-landing-react)
 
 </td>
 <td width="33%">
